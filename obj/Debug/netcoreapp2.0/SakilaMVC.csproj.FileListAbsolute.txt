@@ -1,0 +1,11 @@
+C:\Users\Kevin\Desktop\csharp\coding-dojo\SakilaMVC\bin\Debug\netcoreapp2.0\SakilaMVC.deps.json
+C:\Users\Kevin\Desktop\csharp\coding-dojo\SakilaMVC\bin\Debug\netcoreapp2.0\SakilaMVC.runtimeconfig.json
+C:\Users\Kevin\Desktop\csharp\coding-dojo\SakilaMVC\bin\Debug\netcoreapp2.0\SakilaMVC.runtimeconfig.dev.json
+C:\Users\Kevin\Desktop\csharp\coding-dojo\SakilaMVC\bin\Debug\netcoreapp2.0\SakilaMVC.dll
+C:\Users\Kevin\Desktop\csharp\coding-dojo\SakilaMVC\bin\Debug\netcoreapp2.0\SakilaMVC.pdb
+C:\Users\Kevin\Desktop\csharp\coding-dojo\SakilaMVC\obj\Debug\netcoreapp2.0\SakilaMVC.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\csharp\coding-dojo\SakilaMVC\obj\Debug\netcoreapp2.0\SakilaMVC.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\csharp\coding-dojo\SakilaMVC\obj\Debug\netcoreapp2.0\SakilaMVC.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\csharp\coding-dojo\SakilaMVC\obj\Debug\netcoreapp2.0\SakilaMVC.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\csharp\coding-dojo\SakilaMVC\obj\Debug\netcoreapp2.0\SakilaMVC.dll
+C:\Users\Kevin\Desktop\csharp\coding-dojo\SakilaMVC\obj\Debug\netcoreapp2.0\SakilaMVC.pdb

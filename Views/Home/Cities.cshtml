@@ -1,0 +1,25 @@
+@model IEnumerable<City>
+
+<div class="row">
+    <div class="col-md-10">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>City ID</th>
+                    <th>City Name</th>
+                    <th>Country ID</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var city in Model)
+                {
+                    <tr>
+                        <td>@city.city_id</td>
+                        <td>@city.city</td>
+                        <td>@city.country_id</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
