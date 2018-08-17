@@ -39,6 +39,13 @@ namespace SakilaMVC.Controllers
             return View(model);
             // Other code
         }
+        [HttpGet("address")]
+        public IActionResult Address()
+        {
+            IEnumerable<Address> model = _context.address.Where(a => a.address_id > 10 && a.address_id < 50);
+            return View(model);
+            // Other code
+        }
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });

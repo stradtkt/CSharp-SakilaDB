@@ -9,7 +9,7 @@ namespace SakilaMVC.Models
         public string address {get;set;}
         public string district {get;set;}
         public int city_id {get;set;}
-        public int postal_code {get;set;}
-        public int phone {get;set;}
+        public string postal_code {get;set;}
+        public string phone {get;set;}
     }
 }
