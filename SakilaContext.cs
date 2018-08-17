@@ -9,5 +9,7 @@ namespace SakilaMVC.Models
        public DbSet<Film> film {get;set;}
 
        public DbSet<City> city {get;set;}
+       public DbSet<Staff> staff {get;set;}
+       public DbSet<Address> address {get;set;}
     }
 }

@@ -32,6 +32,13 @@ namespace SakilaMVC.Controllers
             return View(model);
             // Other code
         }
+        [HttpGet("staff")]
+        public IActionResult Staff()
+        {
+            IEnumerable<Staff> model = _context.staff.Where(s => s.staff_id > 1 && s.staff_id < 20).ToList();
+            return View(model);
+            // Other code
+        }
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
